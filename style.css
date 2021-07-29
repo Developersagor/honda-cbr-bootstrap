@@ -1,0 +1,129 @@
+body{
+        font-family: 'Poppins', sans-serif;
+}
+.top-space{
+    margin-top: 125px;
+}
+body a{
+    text-decoration: none;
+
+}
+
+/* Header content css starts here */
+
+.header-content{
+    background-color:#264653;
+}
+.menu-items{
+   margin-right: 0px;
+   margin-left: auto;
+}
+ul.menu-items{
+    list-style: none;
+   
+}
+ul.menu-items li a{
+   text-decoration: none;
+   color: white;
+   padding: 20px;
+}
+.banner-content p{
+    color: #E0E0E0;
+    font-size: 16px;
+}
+.menu-btn{
+    margin-left: 70px;
+    width: 100px;
+    background-color: red;
+    
+}
+.banner-btn{
+    background-color: #E76F51;
+    padding: 5px 30px;
+    color: white;
+    padding: 10px 45px;
+    
+}
+
+/* Fetured section css starts here */
+
+.fetured-section h1{
+    font-weight: 600;
+}
+.fetured-section p{
+    color: #E76F51;
+    font-size: 14px;
+}
+.fetured-bike{
+    width: 268px;
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+.fetured-bike-mid{
+    width: 268px;
+}
+
+/* User review section css starts here */
+
+.review-section{
+    margin-top: 120px;
+}
+.review-section h1 {
+    font-size: 48px;
+}
+.review-section span{
+    color: #E76F51;
+
+}
+.user-card{
+    width: 350px;
+    height: 478px;
+    text-align: center;
+    border: 1px solid #ddd;
+
+}
+.user-img{
+    width: 149px;
+}
+.user-card p{
+    font-size: 16px;
+}
+.user-card-star{
+    color: #E77C40;
+}
+.card-last-user{
+    border-radius: 50%;
+    height: 145px;
+}
+/* Question Section css starts here  */
+.questio-title{
+    font-weight: 600;
+}
+.top-gap{
+    margin-top: 112px;
+}
+.question-section-img{
+    width: 430px;
+}
+/* Top compititors */
+.top-bike{
+    width: 400px;
+    height: 150px;
+    border: 1px solid #ddd;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.top-bike-img{
+    width: 240px;
+}
+.top-bike-title{
+    font-size:30px;
+    color: rgb(14, 5, 5);
+}
+
+/* News section  */
+.news-img{
+    width: 150px;
+
+}
